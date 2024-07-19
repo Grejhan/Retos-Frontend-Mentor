@@ -49,12 +49,13 @@ main{
 }
 
 .text_01{
-    width: 100%;
+    width: 90%;
     height: auto;
     justify-content: center;
     align-items: center;
     display: flex;
     text-align: center;
+    margin-left: 1.5rem;
 }
 
 .text_02{
